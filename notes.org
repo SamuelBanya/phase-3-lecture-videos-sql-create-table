@@ -1,0 +1,7 @@
+These are the commands used in the video:
+#+begin_src sql
+CREATE TABLE fana (
+id INTEGER PRIMARY KEY,
+name TEXT
+)
+#+end_src
